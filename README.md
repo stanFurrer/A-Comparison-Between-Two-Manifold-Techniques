@@ -1,7 +1,7 @@
 # A_Comparison_Between_Two_Manifold_Techniques
-Author : Furrer Stanislas and Carvalho Luis
+**Author** : Furrer Stanislas and Carvalho Luis
 
-Date   : 01.06.2020
+**Date**   : 01.06.2020
 
 This paper comprehensively reviews and discusses LLE and its modified version. Their stability with various data and hyper parameters is depicted as well as their performance of topology preservation and classification.
 
@@ -21,7 +21,7 @@ This paper comprehensively reviews and discusses LLE and its modified version. T
 * Classification rate reduction
 * f1-score
 
-Related Papers :
+### Related Papers :
 * [1] *Locally Linear Embedding*, Roweis, S.T., and L.K. Saul (2000)
 * [2] *Modified Linear Embedding*, Zhang, Zhenyue & Wang, Jing. (2006)
 * [3] *Nonparametric Statistics for the Behavioral Sciences*, S. Siegel, N. Castellan (1988)
