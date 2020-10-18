@@ -4,13 +4,17 @@ Date   : 01.06.2020
 
 This paper comprehensively reviews and discusses LLE and its modified version. Their stability with various data and hyper parameters is depicted as well as their performance of topology preservation and classification.
 
-**The machine learning techniques** utilized in this study were:
+### **Repository**
+* Code_for_the_Study
+* Paper
+
+### **The machine learning techniques** utilized in this study were:
 * Locally Linear Embedding [1]
 * Modified Locally Linear Embedding [2]
 * K Nearest Neighbors
 * Convolutional Neural Network
 
-**The Evaluation Criteria** utilized in this study were
+### **The Evaluation Criteria** utilized in this study were
 * Spearman’s Rho topology preservation [3]
 * Residual variance [4]
 * Classification rate reduction
