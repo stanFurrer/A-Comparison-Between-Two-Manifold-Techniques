@@ -9,19 +9,19 @@ This paper comprehensively reviews and discusses LLE and its modified version. T
 * Code_for_the_Study.ipynb
 * Paper.pdf
 
-### **The machine learning techniques** utilized in this study were:
+### **The machine learning techniques** 
 * Locally Linear Embedding [1]
 * Modified Locally Linear Embedding [2]
 * K Nearest Neighbors
 * Convolutional Neural Network
 
-### **The Evaluation Criteria** utilized in this study were
+### **The Evaluation Criteria**
 * Spearman’s Rho topology preservation [3]
 * Residual variance [4]
 * Classification rate reduction
 * f1-score
 
-### Related Papers :
+### Related Papers 
 * [1] *Locally Linear Embedding*, Roweis, S.T., and L.K. Saul (2000)
 * [2] *Modified Linear Embedding*, Zhang, Zhenyue & Wang, Jing. (2006)
 * [3] *Nonparametric Statistics for the Behavioral Sciences*, S. Siegel, N. Castellan (1988)
