@@ -5,7 +5,7 @@
 
 This paper comprehensively reviews and discusses LLE and its modified version. Their stability with various data and hyper parameters is depicted as well as their performance of topology preservation and classification.
 
-Our Paper : [A_Comparison_Between_Two_Manifold_Techniques](https://www.overleaf.com/read/xhvvqxsyvdtc)
+Our Paper : [A_Comparison_Between_Two_Manifold_Techniques](https://github.com/stanFurrer/A-Comparison-Between-Two-Manifold-Techniques/blob/main/Paper.pdf)
 
 ### **Repository**
 * Code_for_the_Study.ipynb
